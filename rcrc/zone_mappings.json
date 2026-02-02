@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-02",
+  "source": "RCRC Open Data Portal",
+  "mappings": {
+    "zone_codes": {
+      "R1": {
+        "name_en": "Low Density Residential",
+        "name_ar": "سكني منخفض الكثافة",
+        "rcrc_sectors": ["Residential (Villas)"],
+        "description": "Single-family detached villas"
+      },
+      "R2": {
+        "name_en": "Medium Density Residential",
+        "name_ar": "سكني متوسط الكثافة",
+        "rcrc_sectors": ["Residential (Indigenous Arab Houses)"],
+        "description": "Traditional housing and duplexes"
+      },
+      "R3": {
+        "name_en": "High Density Residential",
+        "name_ar": "سكني عالي الكثافة",
+        "rcrc_sectors": ["Residential (Apartments)"],
+        "description": "Multi-family apartment buildings"
+      },
+      "C1": {
+        "name_en": "Neighborhood Commercial",
+        "name_ar": "تجاري حي",
+        "rcrc_sectors": ["Trade"],
+        "description": "Local retail and services"
+      },
+      "C2": {
+        "name_en": "General Commercial",
+        "name_ar": "تجاري عام",
+        "rcrc_sectors": ["Mixed Use"],
+        "description": "Mixed use commercial"
+      },
+      "M1": {
+        "name_en": "Light Industrial",
+        "name_ar": "صناعي خفيف",
+        "rcrc_sectors": ["Manufacturing"],
+        "description": "Light manufacturing"
+      },
+      "I1": {
+        "name_en": "Industrial/Warehouse",
+        "name_ar": "صناعي/مستودعات",
+        "rcrc_sectors": ["Warehousing"],
+        "description": "Industrial and storage"
+      }
+    },
+    "statistics": {
+      "total_area_hectares": 528555,
+      "total_parcels": 996479,
+      "total_dwellings": 1454719,
+      "commercial_services": 2658,
+      "sub_municipalities": 21
+    }
+  }
+}

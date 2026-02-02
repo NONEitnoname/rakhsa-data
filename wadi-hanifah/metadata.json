@@ -1,0 +1,54 @@
+{
+  "collection_name": "Wadi Hanifah Urban Code Regulations",
+  "description": "Official zoning and development regulations for Wadi Hanifah protected area in Riyadh",
+  "source_authority": "Royal Commission for Riyadh City (RCRC)",
+  "source_website": "https://hanifaurbancode.rcrc.gov.sa",
+  "data_version": "1.0.0",
+  "schema_version": "1.0.0",
+  "downloaded_at": "2026-02-02",
+  "coverage_area": {
+    "name": "Wadi Hanifah",
+    "region": "Riyadh",
+    "country": "Saudi Arabia"
+  },
+  "documents": [
+    {
+      "code": "T3.1",
+      "name_en": "Large Villa Residential",
+      "name_ar": "سكني فلل كبير",
+      "url": "https://hanifaurbancode.rcrc.gov.sa/wp-content/uploads/2024/11/T3.1.pdf",
+      "file": "T3.1.pdf",
+      "size_mb": 26.7,
+      "status": "downloaded"
+    },
+    {
+      "code": "T4.1",
+      "name_en": "Urban District",
+      "name_ar": "المقطع الحضري",
+      "url": "https://hanifaurbancode.rcrc.gov.sa/wp-content/uploads/2024/09/T4.1-v2.6_compressed.pdf",
+      "file": "T4.1.pdf",
+      "size_mb": 43.3,
+      "status": "downloaded"
+    },
+    {
+      "code": "T3.2",
+      "name_en": "Small-Medium Villa Residential",
+      "name_ar": "سكني فلل صغير-متوسط",
+      "url": "https://hanifaurbancode.rcrc.gov.sa/wp-content/uploads/2024/11/T3.2.pdf",
+      "file": "T3.2.pdf",
+      "status": "downloading"
+    },
+    {
+      "code": "T5.1",
+      "name_en": "Central District (with setbacks)",
+      "name_ar": "المقطع المركزي",
+      "url": "https://hanifaurbancode.rcrc.gov.sa/wp-content/uploads/2024/11/T5.1.pdf",
+      "file": "T5.1.pdf",
+      "status": "downloading"
+    }
+  ],
+  "total_documents": 12,
+  "downloaded_count": 2,
+  "downloading_count": 2,
+  "pending_count": 8
+}

@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "extracted_date": "2026-02-02",
+  "sources": [
+    {
+      "id": "trc-building-guide-2024",
+      "name": "TRC Building License Requirements Guide",
+      "name_ar": "الدليل الإرشادي لإشتراطات رخص البناء",
+      "authority": "Riyadh Development Authority (TRC)",
+      "authority_ar": "الهيئة الملكية لمدينة الرياض",
+      "url": "https://trc.alriyadh.gov.sa",
+      "accessed_date": "2026-02-02",
+      "document_type": "official_regulation",
+      "language": "ar",
+      "translation_available": true,
+      "building_types_covered": 42,
+      "rules_extracted": 78
+    }
+  ],
+  "extraction_method": "web_scraping",
+  "quality_assurance": {
+    "citation_completeness": "100%",
+    "arabic_text_preserved": true,
+    "verification_status": "extracted_from_official_source"
+  }
+}

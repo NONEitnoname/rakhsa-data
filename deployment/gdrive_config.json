@@ -1,0 +1,23 @@
+{
+  "folder_id": "PUBLIC_FOLDER_ID",
+  "sharing": "public",
+  "access_method": "direct_download",
+  "instructions": "Create a public Google Drive folder, upload data files, and update file IDs here",
+  "files": {
+    "wadi_hanifah_regs": {
+      "file_id": "PENDING",
+      "direct_url": "https://drive.google.com/uc?export=download&id=PENDING",
+      "filename": "extracted_regulations.json"
+    },
+    "rcrc_zones": {
+      "file_id": "PENDING",
+      "direct_url": "https://drive.google.com/uc?export=download&id=PENDING",
+      "filename": "zones.geojson"
+    },
+    "trc_rules": {
+      "file_id": "PENDING",
+      "direct_url": "https://drive.google.com/uc?export=download&id=PENDING",
+      "filename": "building_rules.json"
+    }
+  }
+}

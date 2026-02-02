@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "source": "TRC Building License Requirements Guide",
+  "last_updated": "2026-02-02",
+  "standards": {
+    "residential": {
+      "single_family": {
+        "spaces_per_unit": 1,
+        "notes": "Minimum 1 space per dwelling unit",
+        "notes_ar": "موقف واحد على الأقل لكل وحدة سكنية"
+      },
+      "multi_family": {
+        "spaces_per_unit": 1,
+        "notes": "1 space per apartment unit",
+        "notes_ar": "موقف واحد لكل شقة"
+      },
+      "furnished_apartments": {
+        "spaces_per_unit": 1,
+        "notes": "1 space per furnished unit",
+        "notes_ar": "موقف واحد لكل وحدة مفروشة"
+      }
+    },
+    "commercial": {
+      "hotel_5star": {
+        "spaces_per_room": 1,
+        "notes": "1 space per room for 5-star hotels"
+      },
+      "hotel_4star": {
+        "spaces_per_rooms": 0.5,
+        "notes": "1 space per 2 rooms for 4-star hotels"
+      },
+      "restaurant_cafe_b": {
+        "spaces_per_sqm": 0.08,
+        "notes": "2 spaces per 25 sqm of area"
+      },
+      "telecom_kiosk": {
+        "spaces_min": 1,
+        "notes": "Minimum 1 space per kiosk"
+      }
+    },
+    "institutional": {
+      "hospital": {
+        "spaces_per_bed": 1,
+        "spaces_per_clinic": 4,
+        "notes": "1 space per bed + 4 spaces per clinic"
+      },
+      "private_school": {
+        "calculation": "as_per_project_requirements",
+        "notes": "Based on capacity and local requirements"
+      }
+    },
+    "recreational": {
+      "chalet": {
+        "spaces_per_chalet": 2,
+        "notes": "Minimum 2 spaces per chalet"
+      },
+      "rest_house": {
+        "spaces_per_unit": 2,
+        "notes": "2 spaces per rest house unit"
+      }
+    }
+  }
+}

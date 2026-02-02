@@ -1,0 +1,22 @@
+{
+  "repository": "noneitnoname/rakhsa-data",
+  "branch": "main",
+  "access_method": "github_raw_urls",
+  "base_url": "https://raw.githubusercontent.com/noneitnoname/rakhsa-data/main",
+  "files": {
+    "wadi_hanifah_regs": "wadi-hanifah/extracted_regulations.json",
+    "wadi_hanifah_metadata": "wadi-hanifah/metadata.json",
+    "rcrc_zones": "rcrc/zones.geojson",
+    "rcrc_parcels": "rcrc/parcels.geojson",
+    "rcrc_mappings": "rcrc/zone_mappings.json",
+    "trc_rules": "trc/building_rules.json",
+    "trc_parking": "trc/parking_standards.json",
+    "trc_sources": "trc/sources.json"
+  },
+  "update_frequency": "manual",
+  "cache_duration_seconds": 86400,
+  "retry_config": {
+    "max_retries": 3,
+    "retry_delay_ms": 1000
+  }
+}
