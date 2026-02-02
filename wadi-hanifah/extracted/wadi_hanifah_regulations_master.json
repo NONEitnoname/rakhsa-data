@@ -1,0 +1,64 @@
+{
+  "collection_name": "Wadi Hanifah Urban Code Regulations - Structured",
+  "source_authority": "Royal Commission for Riyadh City (RCRC)",
+  "source_website": "https://hanifaurbancode.rcrc.gov.sa",
+  "extraction_date": "2026-02-02T13:15:40.145Z",
+  "schema_version": "2.0.0",
+  "coverage_area": {
+    "name": "Wadi Hanifah",
+    "name_ar": "وادي حنيفة",
+    "region": "Riyadh",
+    "country": "Saudi Arabia"
+  },
+  "zone_types": [
+    {
+      "code": "T3.1",
+      "name_en": "Large Villa Residential",
+      "name_ar": "سكني فلل كبير",
+      "type": "Residential",
+      "file": "T3.1_enhanced.json"
+    },
+    {
+      "code": "T3.2",
+      "name_en": "Small-Medium Villa Residential",
+      "name_ar": "سكني فلل صغير-متوسط",
+      "type": "Residential",
+      "file": "T3.2_enhanced.json"
+    },
+    {
+      "code": "T4.1",
+      "name_en": "Urban District",
+      "name_ar": "المقطع الحضري",
+      "type": "Mixed-Use",
+      "file": "T4.1_enhanced.json"
+    },
+    {
+      "code": "T5.1",
+      "name_en": "Central District (with setbacks)",
+      "name_ar": "المقطع المركزي",
+      "type": "Central/Commercial",
+      "file": "T5.1_enhanced.json"
+    }
+  ],
+  "common_regulations": {
+    "prohibited_materials": [
+      "Reflective marble/granite",
+      "Aluminum cladding (Cladding)",
+      "Bright colored glass",
+      "Unfinished cement blocks",
+      "Sloped roofs with tiles",
+      "Metal screens on fences"
+    ],
+    "color_palette": "Natural/desert colors only - no bright or primary colors",
+    "sustainability": "Drought-resistant landscaping recommended, minimize water usage",
+    "architectural_style": "Must be compatible with local Wadi Hanifah character",
+    "accessibility": "Sidewalk ramps required for pedestrians and disabled access"
+  },
+  "extraction_notes": [
+    "Regulations extracted from official RCRC PDF documents",
+    "Arabic text preserved with English translations",
+    "Numerical values verified against source documents",
+    "Some values may require verification with latest official documents",
+    "Values in meters (m) unless otherwise specified"
+  ]
+}

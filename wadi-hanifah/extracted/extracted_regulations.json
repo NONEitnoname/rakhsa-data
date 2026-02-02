@@ -1,0 +1,46 @@
+{
+  "collection_name": "Wadi Hanifah Urban Code Regulations - Extracted",
+  "source_authority": "Royal Commission for Riyadh City (RCRC)",
+  "extraction_date": "2026-02-02T13:13:36.445Z",
+  "total_documents": 4,
+  "documents": [
+    {
+      "code": "T3.1",
+      "name_en": "Large Villa Residential",
+      "name_ar": "سكني فلل كبير",
+      "file": "T3.1.json",
+      "num_pages": 38,
+      "has_error": false
+    },
+    {
+      "code": "T3.2",
+      "name_en": "Small-Medium Villa Residential",
+      "name_ar": "سكني فلل صغير-متوسط",
+      "file": "T3.2.json",
+      "num_pages": 40,
+      "has_error": false
+    },
+    {
+      "code": "T4.1",
+      "name_en": "Urban District",
+      "name_ar": "المقطع الحضري",
+      "file": "T4.1.json",
+      "num_pages": 101,
+      "has_error": false
+    },
+    {
+      "code": "T5.1",
+      "name_en": "Central District (with setbacks)",
+      "name_ar": "المقطع المركزي",
+      "file": "T5.1.json",
+      "num_pages": 40,
+      "has_error": false
+    }
+  ],
+  "extraction_notes": [
+    "Text extracted using pdf-parse library",
+    "Arabic text preserved where possible",
+    "Numerical values extracted using regex patterns",
+    "Some formatting may be lost during extraction"
+  ]
+}
